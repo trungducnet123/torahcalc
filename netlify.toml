@@ -1,6 +1,5 @@
 [build]
   command = "npm run build" # Lệnh build
-  publish = "dist" # Thư mục chứa file build
 
 [functions]
   directory = "functions" # Thư mục chứa các function serverless (nếu có)
