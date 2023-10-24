@@ -1,0 +1,25 @@
+[build]
+  command = "npm run build" # Lệnh build
+  publish = "dist" # Thư mục chứa file build
+
+[functions]
+  directory = "functions" # Thư mục chứa các function serverless (nếu có)
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 # Redirect mọi request về index.html để xử lý client-side
+
+[[headers]]
+  for = "/*" # Áp dụng cho tất cả các request
+  [headers.values]
+    X-Frame-Options = "DENY" # Vô hiệu hóa việc hiển thị trong iframe
+    X-XSS-Protection = "1; mode=block" # Bật filter XSS của browser
+    Referrer-Policy = "same-origin" # Giới hạn Referrer 
+    X-Content-Type-Options = "nosniff" # Ngăn chặn sniff MIME type
+
+[[plugins]]
+  package = "@netlify/plugin-lighthouse" # Cấu hình plugin Lighthouse
+
+  [plugins.inputs]
+    output_path = "reports" # Đường dẫn đến thư mục chứa các report
