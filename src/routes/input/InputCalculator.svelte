@@ -89,6 +89,6 @@
 	{/await}
 
 	<div class="mx-3 mt-1 mb-0">
-		<a href="/contact">Feedback</a>
+		<a href="mailto:contact@kabala.vn">Feedback</a>
 	</div>
 {/if}

@@ -6,11 +6,11 @@
 <footer>
 	<p style="display:inline;" id="footerText">
 		© {year}
-		<a href="http://torahcalc.com" style="text-decoration:none;color:#343434;">TorahCalc.com</a>, Fresh Idea Inc., all rights reserved.
+		<a href="http://torah.kabala.vn" style="text-decoration:none;color:#343434;">Torah.Kabala.vn</a>, Kabala.vn, all rights reserved.
 		<span> | </span>
-		<a href="/terms/privacy">Privacy&nbsp;Policy</a>
+		<a href="https://treeoflife.kabala.vn">Tree Of Life</a>
 		<span> | </span>
-		<a href="/terms/tos">Terms&nbsp;and&nbsp;Conditions</a>
+		<a href="https://777.kabala.vn/">777</a>
 	</p>
 </footer>
 

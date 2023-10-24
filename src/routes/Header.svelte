@@ -109,13 +109,15 @@
 					{/each}
 				</ul>
 				<span class="navbar-text">
-					<a class="nav-link" href="https://torahcalc.com" target="_blank" rel="noopener noreferrer">
+					<a class="nav-link" href="https://kabala.vn" target="_blank" rel="noopener noreferrer">
 						<Fa icon={faExternalLinkAlt} size="1x" />
-						<span>Visit Old Site</span>
+						<span>Kabala.vn</span>
 					</a>
-					<a class="github" href="https://github.com/torahcalc/torahcalc" target="_blank" rel="noopener noreferrer">
-						<Fa icon={faGithub} size="1.5x" />
-						<span>Contribute</span>
+					<a class="github" href="https://gematria.kabala.vn/" target="_blank" rel="noopener noreferrer">
+						<span>Gematria</span>
+					</a>
+					<a class="github" href="https://kabala.vn/tools" target="_blank" rel="noopener noreferrer">
+						<span>Tools</span>
 					</a>
 				</span>
 			</div>

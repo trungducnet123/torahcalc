@@ -393,7 +393,7 @@ export function searchGematria(value) {
  *
  * For example, 53 = Mispar Siduri of "תורה" = AtBach of "עבודה"
  *
- * Javascript adaptation by TorahCalc.com, original code in Kotlin by ssternbach@torahdownloads.com
+ * Javascript adaptation by Torah.Kabala.vn, original code in Kotlin by ssternbach@torahdownloads.com
  *
  * @param {string} word1 - The first word to compare
  * @param {string} word2 - The second word to compare
