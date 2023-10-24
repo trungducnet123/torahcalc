@@ -1,6 +1,6 @@
 <svelte:head>
-	<title>TorahCalc | Terms and Conditions</title>
-	<meta name="description" content="TorahCalc Terms and Conditions" />
+	<title>Kabala Torah | Terms and Conditions</title>
+	<meta name="description" content="Kabala Torah Terms and Conditions" />
 </svelte:head>
 
 <section>
@@ -15,9 +15,9 @@
 		time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 	</p>
 	<p>
-		The TorahCalc app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore
+		The Kabala Torah app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore
 		recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could
-		make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the TorahCalc app won’t work properly or at all.
+		make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Kabala Torah app won’t work properly or at all.
 	</p>
 	<!---->
 	<p>

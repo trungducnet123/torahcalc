@@ -17,7 +17,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Molad Calculator</title>
+	<title>Kabala Torah | Molad Calculator</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

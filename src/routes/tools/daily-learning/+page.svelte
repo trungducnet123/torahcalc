@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Daf Yomi and Other Daily Learning</title>
+	<title>Kabala Torah | Daf Yomi and Other Daily Learning</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

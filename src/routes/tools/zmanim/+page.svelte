@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Zmanim Calculator</title>
+	<title>Kabala Torah | Zmanim Calculator</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

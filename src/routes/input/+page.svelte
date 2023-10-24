@@ -12,12 +12,12 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | English Text Input Calculator for Torah Study</title>
+	<title>Kabala Torah | English Text Input Calculator for Torah Study</title>
 	<meta name="description" content={description} />
 </svelte:head>
 
 <section>
-	<h1 class="heading">TorahCalc English Input Calculator</h1>
+	<h1 class="heading">Kabala Torah English Input Calculator</h1>
 
 	<p class="center">{description}</p>
 

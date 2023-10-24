@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Jewish Holidays</title>
+	<title>Kabala Torah | Jewish Holidays</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

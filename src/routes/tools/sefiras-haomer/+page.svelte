@@ -53,7 +53,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Sefiras HaOmer Calculator</title>
+	<title>Kabala Torah | Sefiras HaOmer Calculator</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

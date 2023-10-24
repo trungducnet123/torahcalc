@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Date Converter</title>
+	<title>Kabala Torah | Date Converter</title>
 	<meta name="description" content="Convert dates between the Hebrew and Gregorian calendars." />
 </svelte:head>
 

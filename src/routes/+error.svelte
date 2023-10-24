@@ -38,7 +38,7 @@
 
 <section>
 	<h1 class="heading d-flex align-items-center justify-content-center gap-4">
-		<img src={logo} alt="TorahCalc" class="logo" />
+		<img src={logo} alt="Kabala Torah" class="logo" />
 		<div class="center">
 			<div>Error {$page.status}</div>
 			<div class="subtext">{$page.error?.message}</div>

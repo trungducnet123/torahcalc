@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Biblical and Talmudic Unit Converter</title>
+	<title>Kabala Torah | Biblical and Talmudic Unit Converter</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

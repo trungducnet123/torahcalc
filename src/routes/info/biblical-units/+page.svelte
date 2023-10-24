@@ -19,7 +19,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Information on Biblical / Talmudic Units</title>
+	<title>Kabala Torah | Information on Biblical / Talmudic Units</title>
 	<meta name="description" content="Information on biblical and talmudic units of measure with conversions to modern units and sources." />
 </svelte:head>
 

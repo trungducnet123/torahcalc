@@ -137,14 +137,14 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | API</title>
-	<meta name="description" content="TorahCalc API" />
+	<title>Kabala Torah | API</title>
+	<meta name="description" content="Kabala Torah API" />
 </svelte:head>
 
 <section>
-	<h1 class="heading">TorahCalc API</h1>
+	<h1 class="heading">Kabala Torah API</h1>
 
-	<p>Welcome to the TorahCalc API. This API is currently in beta, and is subject to change.</p>
+	<p>Welcome to the Kabala Torah API. This API is currently in beta, and is subject to change.</p>
 
 	<h2 class="category">English Text Input Calculator</h2>
 

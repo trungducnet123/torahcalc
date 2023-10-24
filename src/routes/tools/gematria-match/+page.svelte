@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Gematria Two-Word Match</title>
+	<title>Kabala Torah | Gematria Two-Word Match</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

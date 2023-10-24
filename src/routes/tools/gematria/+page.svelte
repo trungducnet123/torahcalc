@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Gematria Calculator</title>
+	<title>Kabala Torah | Gematria Calculator</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

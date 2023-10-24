@@ -66,13 +66,13 @@ export async function calculateQuery(search, options = {}) {
 	try {
 		parser.feed(searchLower);
 	} catch (e) {
-		throw new InputError('TorahCalc could not understand your input, please word it differently or try one of the examples below.', `${e}`);
+		throw new InputError('Kabala Torah could not understand your input, please word it differently or try one of the examples below.', `${e}`);
 	}
 
 	const derivations = await getValidDerivations(search, parser.results);
 
 	if (Object.keys(derivations).length === 0) {
-		throw new InputError('TorahCalc could not understand your input, please word it differently or try one of the examples below.', JSON.stringify(parser.results, null, 2));
+		throw new InputError('Kabala Torah could not understand your input, please word it differently or try one of the examples below.', JSON.stringify(parser.results, null, 2));
 	}
 
 	const derivation = derivations[options.disambiguation ?? ''] ?? Object.values(derivations).sort((a, b) => b.disambiguationScore - a.disambiguationScore)[0];
@@ -694,7 +694,7 @@ function gematriaTwoWordMatchQuery(derivation) {
 
 	sections.push({
 		title: 'About',
-		content: `<p class="small m-0">Javascript adaptation by TorahCalc. Original code in Kotlin by <a href="ssternbach@torahdownloads.com">ssternbach@torahdownloads.com</a>.
+		content: `<p class="small m-0">Javascript adaptation by Kabala Torah. Original code in Kotlin by <a href="ssternbach@torahdownloads.com">ssternbach@torahdownloads.com</a>.
 					Check out <a href="https://torahdownloads.com/">TorahDownloads.com</a> to find tens of thousands of shiurim on hundreds of topics, all available for free to stream or download!</p>`,
 	});
 	return sections;
@@ -926,7 +926,7 @@ function hebrewCalendarQuery(derivation) {
 	}
 	// unknown query
 	else {
-		throw new InputError('TorahCalc could not understand your input, please word it differently or try one of the examples below.', JSON.stringify(derivation, null, 2));
+		throw new InputError('Kabala Torah could not understand your input, please word it differently or try one of the examples below.', JSON.stringify(derivation, null, 2));
 	}
 
 	return sections;

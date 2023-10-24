@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>TorahCalc | Explanations of Gematria Methods with Charts</title>
+	<title>Kabala Torah | Explanations of Gematria Methods with Charts</title>
 	<meta name="description" content="Explanations of Gematria Methods with Charts" />
 </svelte:head>
 

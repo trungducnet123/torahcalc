@@ -16,7 +16,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Hebrew Zodiac Signs</title>
+	<title>Kabala Torah | Hebrew Zodiac Signs</title>
 	<meta name="description" content={description} />
 </svelte:head>
 

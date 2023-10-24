@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Birkas Hachama</title>
+	<title>Kabala Torah | Birkas Hachama</title>
 	<meta name="description" content={description} />
 </svelte:head>
 
