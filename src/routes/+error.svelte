@@ -7,9 +7,6 @@
 
 	// redirect pages from the old site to the new urls if a 404 is encountered
 	const redirectPath = {
-		'/app': 'https://play.google.com/store/apps/details?id=com.freshidea.newtorahcalc&hl=en_US&gl=US',
-		'/github': 'https://github.com/torahcalc/torahcalc',
-		'/contact': 'https://github.com/torahcalc/torahcalc/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc',
 		'/daf-yomi': '/tools/daily-learning',
 		'/dateconverter': '/tools/date-converter',
 		'/gematria-match': '/tools/gematria-match',
@@ -36,7 +33,7 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | {$page.status} {$page.error?.message}</title>
+	<title>Kabala Torah | {$page.status} {$page.error?.message}</title>
 </svelte:head>
 
 <section>

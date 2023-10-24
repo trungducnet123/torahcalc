@@ -1,6 +1,6 @@
 <svelte:head>
-	<title>Torah Kabala | Privacy Policy</title>
-	<meta name="description" content="Torah Kabala | Privacy Policy" />
+	<title>Kabala Torah | Privacy Policy</title>
+	<meta name="description" content="Kabala Torah | Privacy Policy" />
 </svelte:head>
 
 <section>

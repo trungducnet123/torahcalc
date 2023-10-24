@@ -4,15 +4,15 @@
 </script>
 
 <svelte:head>
-	<title>TorahCalc | Home</title>
-	<meta name="description" content="TorahCalc - Calculators for Torah Study" />
+	<title>Kabala Torah: Calculators for Torah Study</title>
+	<meta name="description" content="Kabala Torah - Calculators for Torah Study" />
 </svelte:head>
 
 <section>
 	<h1 class="heading d-flex align-items-center justify-content-center gap-4">
-		<img src={logo} alt="TorahCalc" class="logo" />
+		<img src={logo} alt="Kabala Torah" class="logo" />
 		<div class="center">
-			<div>Welcome to TorahCalc</div>
+			<div>Welcome to Kabala Torah</div>
 			<div class="subtext">Tools for Torah Study</div>
 		</div>
 	</h1>
