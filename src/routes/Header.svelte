@@ -78,7 +78,7 @@
 		<div class="container-fluid">
 			<a class="navbar-brand navbar-brand-link" href="/">
 				<img src={logo} alt="TorahCalc" class="logo" />
-				<span>TorahCalc</span>
+				<span>Kabala Torah</span>
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon" />
